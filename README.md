@@ -2,7 +2,7 @@
 
 This repo is home to the Icodestuff website built with Laravel
 
-## Local Setup by Venkat
+## Local Setup by Venkat.C
 Homestead is the development environment the website uses to ensure consistency between environments you must use it in order to contribute. 
 
 #### Mac Setup:
